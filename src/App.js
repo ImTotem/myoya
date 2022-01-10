@@ -5,7 +5,7 @@ import { Gnb, LocationUpdater } from "./components";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Gnb />
 
       <main id="main">
