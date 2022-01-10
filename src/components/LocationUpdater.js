@@ -19,14 +19,14 @@ function LocationUpdater() {
     const update = () => {
         const { pathname } = location;
 
-        if ( pathname === "/" ) {
+        if ( pathname === "/myoya/" ) {
             document.body.className = "home";
 
             document.title = "About Myoya";
 
             updateMetaTag("About Myoya", "About Myoya");
         } else {
-            const path2 = pathname.replace("/", "").toLowerCase();
+            const path2 = pathname.replace("/myoya/", "").toLowerCase();
             const text =
                 path2 === "twitch" ? "트위치" :
                 path2 === "blog" ? "블로그" :
