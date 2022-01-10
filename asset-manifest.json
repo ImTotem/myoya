@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/myoya/static/css/main.8095ab1b.css",
+    "main.js": "/myoya/static/js/main.4aa381ab.js",
+    "static/js/787.8a00cff8.chunk.js": "/myoya/static/js/787.8a00cff8.chunk.js",
+    "index.html": "/myoya/index.html",
+    "static/media/myoya.svg": "/myoya/static/media/myoya.57a283b06ac53a6fd3be8f050c41d493.svg",
+    "main.8095ab1b.css.map": "/myoya/static/css/main.8095ab1b.css.map",
+    "main.4aa381ab.js.map": "/myoya/static/js/main.4aa381ab.js.map",
+    "787.8a00cff8.chunk.js.map": "/myoya/static/js/787.8a00cff8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8095ab1b.css",
+    "static/js/main.4aa381ab.js"
+  ]
+}
